@@ -5,6 +5,7 @@ mvnw.cmd
 ShiroDemo.iml
 .mvn/
 !.mvn/wrapper/maven-wrapper.jar
+.gitignore
 !**/src/main/**
 !**/src/test/**
 
